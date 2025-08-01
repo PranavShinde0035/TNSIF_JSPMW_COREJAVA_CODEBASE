@@ -32,6 +32,23 @@ public class identifier {
 	   
 	   byte byteMax=127;
 	   byte byteMin=-128;
+	   System.out.println(byteMax);
+	   System.out.println(byteMin);
+	   
+	   short shortMax=32767;
+	   short shortMin=-32768;
+	   System.out.println(shortMax);
+	   System.out.println(shortMin);
+	   
+	   int intMax=2147483647;
+	   int intMin=-2147483648;
+	   System.out.println(intMax);
+	   System.out.println(intMin);
+	   
+	   long longMax=9223372036854775807l;
+	   long longMin=-9223372036854775808l;
+	   System.out.println(longMax);
+	   System.out.println(longMin);
 	   
    }
 }
