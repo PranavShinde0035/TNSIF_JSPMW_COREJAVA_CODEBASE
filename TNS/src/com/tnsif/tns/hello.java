@@ -2,6 +2,6 @@ package com.tnsif.tns;
 
 public class hello {
     public static void main(String[] args) {
-    	System.out.println("Hello JSPM");
+    	System.out.println("Hello JSPMs Students");
     }
 }
